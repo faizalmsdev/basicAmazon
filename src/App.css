@@ -1,0 +1,85 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+header img{
+  width: 100px;
+  height: 40px;
+  text-align: center;
+  margin-top: 2px;
+}
+
+header{
+  position:fixed;
+  top: 0;
+  width: 100%;
+  left: 0;
+  background-color: #000;
+}
+
+article{
+  margin-left: 100px;
+}
+
+
+
+.color-selector{
+  height: 80px;
+  width: 100px;
+  margin-right: 10px;
+}
+
+.color-selector img{
+  width: 60px;
+  height: 60px;
+  text-align: center;
+}
+
+
+.left-box img{
+  width: 300px;
+  height: 300px;
+}
+
+.left-box p{
+  color: #fff;
+  font-size:2em;
+  position: relative;
+  bottom: 220px;
+  left: 108px;
+}
+
+.left-box{
+  float: left;
+  margin: 8rem 0px;
+  margin-right: 40px;
+}
+
+article h1,p,h2,div,button{
+  text-align: start;
+}
+
+button{
+  height: 42px;
+  width: 120px;
+  text-align: center;
+  margin: 5px 10px;
+}
+
+.time{
+  background-color: darkgray;
+}
+
+.heartRate{
+  background-color: red;
+}
+
+.buyNow{
+  background-color: green;
+  float: left;
+}
+
+
